@@ -1,0 +1,13 @@
+{
+  "name": "clean-architecture-root",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "api": "dotnet run --project Api",
+    "ui": "cd ClientApp && npm run dev",
+    "start": "npx --yes -p concurrently@^8.0.1 concurrently \"npm run api\" \"npm run ui\""
+  },
+  "devDependencies": {
+    "concurrently": "^8.0.1"
+  }
+}

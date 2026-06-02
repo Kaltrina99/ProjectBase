@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "hHOLOU3Bmhw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kaltr\\source\\Base\\Application\\Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kaltr\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.8\\microsoft.extensions.dependencyinjection.abstractions.10.0.8.nupkg.sha512",
+    "C:\\Users\\kaltr\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\10.0.8\\microsoft.extensions.logging.abstractions.10.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
